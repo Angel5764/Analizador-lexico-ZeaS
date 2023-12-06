@@ -1,0 +1,8 @@
+##
+||
+Num algo = 1;
+//una suma normal
+suma = 1 + 1 ;
+Tram Nombre = Angel;
+@
+||
